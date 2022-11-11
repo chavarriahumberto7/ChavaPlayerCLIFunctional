@@ -15,7 +15,7 @@ const music = require('../../Assets/images/music.png');
 const next = require('../../Assets/images/next.png');
 const refresh = require('../../Assets/images/refresh.png');
 const sound = require('../../Assets/images/sound.png');
-const stop = require('../../Assets/images/stop.png');
+const play = require('../../Assets/images/stop.png');
 const thumb_1 = require('../../Assets/images/thumb_1.png');
 const thumb_2 = require('../../Assets/images/thumb_2.png');
 const thumb_3 = require('../../Assets/images/thumb_3.png');
@@ -23,7 +23,7 @@ const thumb = require('../../Assets/images/thunder.png');
 const up = require('../../Assets/images/up.png');
 const right = require('../../Assets/images/right_arrow.png');
 const left = require('../../Assets/images/left.png');
-const play = require('../../Assets/images/play.png');
+const stop = require('../../Assets/images/play.png');
 const right_arrow=require('../../Assets/images/arrow_right.png');
 /** 
  * export the images object
