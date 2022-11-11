@@ -4,7 +4,7 @@ import  {Colors,Fonts}  from './Constants/index';
 import {Player} from './Screens';
 // import * as Font from 'expo-font';
 
-// import {AppNavigator} from 'Navigation'; 
+import {AppNavigator} from './Navigation'; 
 // import TrackPlayer from 'react-native-track-player'
 
 
@@ -33,10 +33,10 @@ const Root = ({ params }) => {
     });
 
   return assetsLoaded ? (
-        // <ThemeManager>
-          // <AppNavigator />
-          <Player/>
-        // </ThemeManager>
+        
+           <AppNavigator/>
+          
+       
       ) : (
         <ActivityIndicator size="small"></ActivityIndicator>
       );

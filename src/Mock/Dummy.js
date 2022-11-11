@@ -38,7 +38,7 @@ export const Favorites=[
     id:'001',
     url:require('../../Assets/Music/VoyAEntregar.mp3'),
     title:'Voy a entregar mi corazon',
-    album:'Great Album',
+    album:'Luz En Mi Vida',
     artist:'Pablo Olivares',
     artwork:require('../../Assets/images/musicImages/PabloO.jpg')
   },
@@ -52,10 +52,10 @@ export const Favorites=[
   },
   {
     id:'003',
-    url:'',
-    title:'King & Queen',
-    album:'Ava Max Album',
-    artist:'Ava Max',
+    url:'../../Assets/Music/VoyAEntregar.mp3',
+    title:'Voy a entregarte mi Corazon',
+    album:'Luz En Mi Vida',
+    artist:'Pablo Olivares',
     artwork:require('../../Assets/images/thumb_3.png')
   },
 ]
